@@ -12,5 +12,6 @@ public class PrintName {
 
     //Test
     public static void testMethod (){
+        System.nanoTime ();
     }
 }
