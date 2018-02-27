@@ -10,6 +10,8 @@ public class PrintName {
         new PrintName ();
     }
 
+    //Second Test
+
     //Test
     public static void testMethod (){
         System.nanoTime ();
