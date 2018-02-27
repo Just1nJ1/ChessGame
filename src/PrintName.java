@@ -10,7 +10,7 @@ public class PrintName {
         new PrintName ();
     }
 
-    //Second Test
+    //Second Test2
 
     //Test
     public static void testMethod (){
