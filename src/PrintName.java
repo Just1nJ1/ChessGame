@@ -12,6 +12,6 @@ public class PrintName {
 
     //Test
     public static void testMethod (){
-
+        123456;
     }
 }
