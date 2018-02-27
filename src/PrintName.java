@@ -9,4 +9,9 @@ public class PrintName {
     public static void main (String... args){
         new PrintName ();
     }
+
+    //Test
+    public static void testMethod (){
+
+    }
 }
